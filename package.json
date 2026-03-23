@@ -1,0 +1,9 @@
+{
+  "name": "aditya-portfolio-site",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python3 -m http.server 4321",
+    "serve": "python3 -m http.server 4321"
+  }
+}
